@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(10,37): warning C4101: hEvent: неиспользованная локальная переменная
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(79,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(86,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(174,39): warning C4101: hEvent: неиспользованная локальная переменная
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(245,39): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> D:\PSU\3 course\2\MZKS\test\Debug\test.exe

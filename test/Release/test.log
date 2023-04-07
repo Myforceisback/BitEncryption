@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(10,37): warning C4101: hEvent: неиспользованная локальная переменная
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(79,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(86,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(174,39): warning C4101: hEvent: неиспользованная локальная переменная
+D:\PSU\3 course\2\MZKS\test\test\main.cpp(245,39): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  test.vcxproj -> D:\PSU\3 course\2\MZKS\test\Release\test.exe
