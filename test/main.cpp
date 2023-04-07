@@ -1,5 +1,4 @@
 ﻿#include "Header.h"
-#include <iostream>
 
 INT encode(CHAR* main_file, CHAR* encode_file)
 {
